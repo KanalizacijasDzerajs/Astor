@@ -1,0 +1,12 @@
+.title {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 70px;
+    background-color: black;
+    margin: -12px;
+    font-family: sans-serif;
+}
+.pb {
+    color: red;
+}

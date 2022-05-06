@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("backround1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 {
+    color: white;
+}
+#results {
+    color: white;
+}
+#dealer-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#your-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+#hit {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+#stay {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+#Play_Again {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
